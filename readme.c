@@ -38,6 +38,6 @@ To check make file is upto date
 
 Give command "make" 
 
-
+![CI](https://github.com/99002483/linux-project-/workflows/CI/badge.svg)
 
 
